@@ -9,9 +9,7 @@ I am always eager to learn new skills, strengthen and improve the ones I already
 ### I am interested in the topics of...
 - Automation
 - Project managment
-- CD/CI
 - Programming
-- AWS
-- Salesforce / Copado
-
-### I'm open to...
+- AWS - Cloud Practitioner
+- Boto3
+- Python
